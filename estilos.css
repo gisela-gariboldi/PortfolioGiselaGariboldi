@@ -220,7 +220,7 @@ footer {
 /* Fin del responsive desing tablets */
 
 /* Responsive desing celulares */
-@media all and (max-width: 599px) {
+@media all and (max-width: 399px) {
 
 
 #animacion {
@@ -231,7 +231,7 @@ footer {
 }
     
 #animacion p { 
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .ObjetoAnimado {
@@ -245,9 +245,9 @@ footer {
 }
 
 #skills-t img {
-    width: 58px;
+    width: 40px;
     display: inline-block;
-    padding: 10px;
+    padding: 5px;
 }
 
 #skills-t a:hover img {

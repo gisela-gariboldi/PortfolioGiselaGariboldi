@@ -234,7 +234,7 @@ footer {
 #animacion {
     height: 40px;
     display: grid;
-    margin-top: 17%;
+    margin-top: 18%;
     margin-bottom: 45%;
 }
     
@@ -245,7 +245,7 @@ footer {
 .ObjetoAnimado {
     animation-name: MiAnimacion;
     margin-right: 6px;
-    padding: 2px 6px 6px;
+    padding: 1px 6px 6px;
 }
 
 @keyframes MiAnimacion {0% { height:100px; margin-top:0px } /* Al principio de la animación */

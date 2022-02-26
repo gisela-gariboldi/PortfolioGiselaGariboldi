@@ -156,7 +156,7 @@ body {
     width: 90%;
     height: 90%;
     object-fit: cover;
-    filter: brightness(75%);
+    filter: brightness(85%);
 }
 
 .galeria-proyectos a:hover {
